@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: emoncms3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-25 16:45+0100\n"
+"PO-Revision-Date: 2013-09-25 16:57+0100\n"
+"Last-Translator: Troels Leegaard <tleegaard@gmail.com>\n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../feedspectrum_menu.php:7
+#: ../../../Views/feedspectrumlist_view.php:19
+msgid "feedspectrums"
+msgstr "feedspectrums"
+
+#: ../../../Views/feedspectrumlist_view.php:16
+msgid "feedspectrum API Help"
+msgstr "Hjælp til API"
+
+#: ../../../Views/feedspectrumlist_view.php:24
+msgid "No feedspectrums created"
+msgstr "Ingen feedspectrums oprettet"
+
+#: ../../../Views/feedspectrumlist_view.php:25
+#, fuzzy
+msgid "feedspectrums are where your monitoring data is stored. The recommended route for creating feedspectrums is to start by creating spectrums (see the spectrums tab). Once you have spectrums you can either log them straight to feedspectrums or if you want you can add various levels of spectrum processing to your spectrums to create things like daily average data or to calibrate spectrums before storage. You may want to follow the link as a guide for generating your request."
+msgstr "feedspectrums er hvor din monitorerede data er lagret. Det anbefales at du opretter feedspectrums, ved først at oprette spectrums (se spectrum-fanen). Når du har oprettet et spectrum kan du enten logge disse direkte til feedspectrums eller du kan tilføje automatisk behandling af dine spectrums inden de logges som feedspectrums. Muligvis ønsker du at følge linket for at bruge den som guide til generering af din anmodning."
+
+#: ../../../Views/feedspectrumlist_view.php:25
+msgid "feedspectrum API helper"
+msgstr "Hjælp til API"
+
+#: ../../../Views/feedspectrumlist_view.php:35
+msgid "WARNING deleting a feedspectrum is permanent"
+msgstr "ADVARSEL: Sletning af feedspectrum er permanent"
+
+#: ../../../Views/feedspectrumlist_view.php:38
+msgid "Are you sure you want to delete this feedspectrum?"
+msgstr "Er du sikker på at du ønsker at slette dette feedspectrum?"
+
+#: ../../../Views/feedspectrumlist_view.php:41
+msgid "Cancel"
+msgstr "Annullér"
+
+#: ../../../Views/feedspectrumlist_view.php:42
+msgid "Delete permanently"
+msgstr "Slet permanent"
+
+#: ../../../Views/feedspectrumlist_view.php:57
+msgid "Id"
+msgstr "ID"
+
+#: ../../../Views/feedspectrumlist_view.php:58
+msgid "Name"
+msgstr "Navn"
+
+#: ../../../Views/feedspectrumlist_view.php:59
+msgid "Tag"
+msgstr "Gruppe"
+
+#: ../../../Views/feedspectrumlist_view.php:60
+msgid "Datatype"
+msgstr "Datatype"
+
+#: ../../../Views/feedspectrumlist_view.php:61
+msgid "Engine"
+msgstr "Motor"
+
+#: ../../../Views/feedspectrumlist_view.php:62
+msgid "Public"
+msgstr "Offentlig"
+
+#: ../../../Views/feedspectrumlist_view.php:63
+msgid "Size"
+msgstr "Størrelse"
+
+#: ../../../Views/feedspectrumlist_view.php:65
+msgid "Updated"
+msgstr "Opdateret"
+
+#: ../../../Views/feedspectrumlist_view.php:66
+msgid "Value"
+msgstr "Værdi"
+
+#: ../../../Views/feedspectrumapi_view.php:19
+msgid "feedspectrum API"
+msgstr "API for feedspectrum"
+
+#: ../../../Views/feedspectrumapi_view.php:21
+msgid "Apikey authentication"
+msgstr "APIKEY-autentificering"
+
+#: ../../../Views/feedspectrumapi_view.php:22
+msgid "If you want to call any of the following action's when your not logged in, add an apikey to the URL of your request: &apikey=APIKEY."
+msgstr "Hvis du ønsker at kalde en af de følgende funktioner når du ikke er logget ind, skal du tilføje din APIKEY til URL'en: \"&apikey=APIKEY\""
+
+#: ../../../Views/feedspectrumapi_view.php:23
+msgid "Read only:"
+msgstr "Læserettigheder"
+
+#: ../../../Views/feedspectrumapi_view.php:27
+msgid "Read & Write:"
+msgstr "Læse- og skriverettigheder"
+
+#: ../../../Views/feedspectrumapi_view.php:31
+msgid "Html"
+msgstr "HTML"
+
+#: ../../../Views/feedspectrumapi_view.php:32
+msgid "The feedspectrum list view"
+msgstr "feedspectrum-visning"
+
+#: ../../../Views/feedspectrumapi_view.php:33
+msgid "This page"
+msgstr "Denne side"
+
+#: ../../../Views/feedspectrumapi_view.php:35
+msgid "JSON"
+msgstr "JSON"
+
+#: ../../../Views/feedspectrumapi_view.php:36
+msgid "To use the json api the request url needs to include .json"
+msgstr "For at benytte JSON-API-kald skal URL'en indeholde \".json\""
+
+#: ../../../Views/feedspectrumapi_view.php:37
+msgid "returns a list of public feedspectrums made public by the given user."
+msgstr "returnerer en liste over offentlige funktioner gjort tilgængelige af brugeren"
+
+#: ../../../Views/feedspectrumapi_view.php:38
+#: ../../../Views/feedspectrumapi_view.php:39
+msgid "returns the present value of a given feedspectrum"
+msgstr "returnerer den nuværende værdi af et feedspectrum"
+
+#: ../../../Views/feedspectrumapi_view.php:40
+msgid "returns feedspectrum data"
+msgstr "returnerer feedspectrum-data"
+
+#: ../../../Views/feedspectrumapi_view.php:41
+msgid "returns histogram data"
+msgstr "returnerer histogram-data"
+
+#: ../../../Views/feedspectrumapi_view.php:42
+msgid "returns kwh consumed in a given power band using histogram data type"
+msgstr "returnerer kWh-forbrug i et givent kW-område baseret på histogram-data"
+
+#: ../../../Views/feedspectrumapi_view.php:44
+msgid "returns id of a feedspectrum given by name"
+msgstr "returnerer ID for et given feedspectrum baseret på dets navn"
+

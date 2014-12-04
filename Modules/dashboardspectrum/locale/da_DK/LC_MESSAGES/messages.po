@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: emoncms3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-25 16:27+0100\n"
+"PO-Revision-Date: 2013-09-25 16:43+0100\n"
+"Last-Translator: Troels Leegaard <tleegaard@gmail.com>\n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../dashboardspectrum_langjs.php:13
+msgid "Changed, press to save"
+msgstr "Ændret. Tryk for at gemme"
+
+#: ../../../dashboardspectrum_langjs.php:16
+msgid "feedspectrum"
+msgstr "feedspectrum"
+
+#: ../../../dashboardspectrum_langjs.php:17
+msgid "feedspectrum value"
+msgstr "feedspectrum-værdi"
+
+#: ../../../dashboardspectrum_langjs.php:19
+msgid "Value"
+msgstr "Værdi"
+
+#: ../../../dashboardspectrum_langjs.php:20
+msgid "Value to show"
+msgstr "Værdi at vise"
+
+#: ../../../dashboardspectrum_langjs.php:22
+msgid "Units"
+msgstr "Enheder"
+
+#: ../../../dashboardspectrum_langjs.php:23
+msgid "Units to show"
+msgstr "Enheder at vise"
+
+#: ../../../dashboardspectrum_langjs.php:25
+msgid "Type"
+msgstr "Type"
+
+#: ../../../dashboardspectrum_langjs.php:26
+msgid "Type to show"
+msgstr "Type at vise"
+
+#: ../../../dashboardspectrum_langjs.php:28
+msgid "Max value"
+msgstr "Maksimumværdi"
+
+#: ../../../dashboardspectrum_langjs.php:29
+msgid "Max value to show"
+msgstr "Maksimumværdi at vise"
+
+#: ../../../dashboardspectrum_langjs.php:33
+msgid "feedspectrum to set, control with caution, make sure device being controlled can operate safely in event of emoncms failure."
+msgstr "feedspectrum der skal opdateres. Brug med forsigtighed, og vær sikker på at enheden der kontrolleres kan fungere selvstændigt, i tilfælde af at emoncms fejler. "
+
+#: ../../../dashboardspectrum_langjs.php:34
+msgid "Starting value"
+msgstr "Startværdi"
+
+#: ../../../dashboardspectrum_langjs.php:37
+msgid "Bottom"
+msgstr "Nederste"
+
+#: ../../../dashboardspectrum_langjs.php:38
+msgid "Top"
+msgstr "Øverste"
+
+#: ../../../dashboardspectrum_langjs.php:39
+msgid "Bottom feedspectrum value"
+msgstr "Nedre feedspectrumværdi"
+
+#: ../../../dashboardspectrum_langjs.php:40
+msgid "Top feedspectrum value"
+msgstr "Øverste feedspectrumværdi"
+
+#: ../../../dashboardspectrum_langjs.php:43
+msgid "Scale"
+msgstr "Skalér"
+
+#: ../../../dashboardspectrum_langjs.php:44
+msgid "Scale to show"
+msgstr "Skalér for at vise"
+
+#: ../../../dashboardspectrum_langjs.php:48
+msgid "Fill"
+msgstr "Fyld"
+
+#: ../../../dashboardspectrum_langjs.php:49
+msgid "Fill value"
+msgstr "Fyldværdi"
+
+#: ../../../dashboardspectrum_langjs.php:50
+msgid "Currency"
+msgstr "Valuta"
+
+#: ../../../dashboardspectrum_langjs.php:51
+msgid "Currency to show"
+msgstr "Valuta at vise"
+
+#: ../../../dashboardspectrum_langjs.php:52
+msgid "Kwh price"
+msgstr "kWh-pris"
+
+#: ../../../dashboardspectrum_langjs.php:53
+msgid "Set kwh price"
+msgstr "Indstil kWh-pris"
+
+#: ../../../dashboardspectrum_langjs.php:54
+msgid "kwhd"
+msgstr "kWh/d"
+
+#: ../../../dashboardspectrum_langjs.php:55
+msgid "kwhd source"
+msgstr "kWh/d-kilde"
+
+#: ../../../dashboardspectrum_langjs.php:56
+msgid "Power"
+msgstr "Effekt"
+
+#: ../../../dashboardspectrum_langjs.php:57
+msgid "Power to show"
+msgstr "Effekt at vise"
+
+#: ../../../dashboardspectrum_langjs.php:58
+msgid "Threshold A"
+msgstr "Grænse A"
+
+#: ../../../dashboardspectrum_langjs.php:59
+msgid "Threshold B"
+msgstr "Grænse B"
+
+#: ../../../dashboardspectrum_langjs.php:60
+msgid "Threshold A used"
+msgstr "Grænse A benyttet"
+
+#: ../../../dashboardspectrum_langjs.php:61
+msgid "Threshold B used"
+msgstr "Grænse B benyttet"
+
+#: ../../../dashboardspectrum_langjs.php:62
+msgid "Consumption"
+msgstr "Forbrug"
+
+#: ../../../dashboardspectrum_langjs.php:63
+msgid "Solar"
+msgstr "Solenergi"
+
+#: ../../../dashboardspectrum_langjs.php:64
+msgid "Consumption feedspectrum value"
+msgstr "Forbrug feedspectrumid"
+
+#: ../../../dashboardspectrum_langjs.php:65
+msgid "Solar feedspectrum value"
+msgstr "Solenergi feedspectrumid"
+
+#: ../../../dashboardspectrum_langjs.php:66
+msgid "Ufac"
+msgstr ""
+
+#: ../../../dashboardspectrum_langjs.php:67
+msgid "Ufac value"
+msgstr ""
+
+#: ../../../dashboardspectrum_langjs.php:68
+msgid "Mid"
+msgstr "Middel"
+
+#: ../../../dashboardspectrum_langjs.php:69
+msgid "Mid value"
+msgstr "Middelværdi"
+
+#: ../../../dashboardspectrum_menu.php:7
+#: ../../../Views/dashboardspectrum_list.php:15
+msgid "dashboardspectrum"
+msgstr "Instrumentbord"
+
+#: ../../../dashboardspectrum_model.php:52
+msgid " clone"
+msgstr " klon"
+
+#: ../../../Views/dashboardspectrum_edit_view.php:33
+msgid "Configure element"
+msgstr "Konfigurér element"
+
+#: ../../../Views/dashboardspectrum_edit_view.php:36
+#: ../../../Views/dashboardspectrum_list.php:35
+msgid "Cancel"
+msgstr "Annullér"
+
+#: ../../../Views/dashboardspectrum_edit_view.php:37
+#: ../../../Views/dashboardspectrum_config.php:56
+msgid "Save changes"
+msgstr "Gem ændringer"
+
+#: ../../../Views/dashboardspectrum_edit_view.php:45
+msgid "Configure"
+msgstr "Konfigurér"
+
+#: ../../../Views/dashboardspectrum_edit_view.php:46
+msgid "Delete"
+msgstr "Slet"
+
+#: ../../../Views/dashboardspectrum_edit_view.php:48
+msgid "Not modified"
+msgstr "Ikke ændret"
+
+#: ../../../Views/dashboardspectrum_edit_view.php:104
+msgid "Saved"
+msgstr "Gemt"
+
+#: ../../../Views/dashboardspectrum_list.php:19
+msgid "No dashboardspectrums created"
+msgstr "Ingen instrumentbord oprettet"
+
+#: ../../../Views/dashboardspectrum_list.php:20
+msgid "Maybe you would like to add your first dashboardspectrum using the button"
+msgstr "Måske vil du gerne oprette dit første instrumentbord ved at trykke på knappen"
+
+#: ../../../Views/dashboardspectrum_list.php:29
+msgid "WARNING deleting a dashboardspectrum is permanent"
+msgstr "ADVARSEL: Sletning af instrumentbord er permanent"
+
+#: ../../../Views/dashboardspectrum_list.php:32
+msgid "Are you sure you want to delete this dashboardspectrum?"
+msgstr "Er du sikker på at du ønsker at slette instrumentbordet?"
+
+#: ../../../Views/dashboardspectrum_list.php:36
+msgid "Delete permanently"
+msgstr "Slet permanent"
+
+#: ../../../Views/dashboardspectrum_list.php:50
+msgid "Id"
+msgstr "ID"
+
+#: ../../../Views/dashboardspectrum_list.php:51
+msgid "Name"
+msgstr "Navn"
+
+#: ../../../Views/dashboardspectrum_list.php:52
+msgid "Alias"
+msgstr "Alias"
+
+#: ../../../Views/dashboardspectrum_list.php:53
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: ../../../Views/dashboardspectrum_list.php:54
+#: ../../../Views/dashboardspectrum_config.php:34
+msgid "Main"
+msgstr "Primære"
+
+#: ../../../Views/dashboardspectrum_list.php:55
+#: ../../../Views/dashboardspectrum_config.php:44
+msgid "Public"
+msgstr "Offentlige"
+
+#: ../../../Views/dashboardspectrum_list.php:56
+#: ../../../Views/dashboardspectrum_config.php:39
+msgid "Published"
+msgstr "Udgivne"
+
+#: ../../../Views/dashboardspectrum_config.php:20
+msgid "dashboardspectrum Configuration"
+msgstr "Opsætning af instrumentbord"
+
+#: ../../../Views/dashboardspectrum_config.php:25
+msgid "dashboardspectrum name: "
+msgstr "Navn på instrumentbord:"
+
+#: ../../../Views/dashboardspectrum_config.php:27
+msgid "Menu name: (lowercase a-z only)"
+msgstr "Menunavn: (små bogstaver a-z)"
+
+#: ../../../Views/dashboardspectrum_config.php:29
+msgid "Description: "
+msgstr "Beskrivelse"
+
+#: ../../../Views/dashboardspectrum_config.php:34
+msgid "Make this dashboardspectrum the first shown"
+msgstr "Gør dette instrumentbord til det først viste"
+
+#: ../../../Views/dashboardspectrum_config.php:39
+msgid "Activate this dashboardspectrum"
+msgstr "Aktivér dette instrumentbord"
+
+#: ../../../Views/dashboardspectrum_config.php:44
+msgid "Anyone with the URL can see this dashboardspectrum"
+msgstr "Alle med denne URL kan se instrumentbordet"
+
+#: ../../../Views/dashboardspectrum_config.php:49
+msgid "Shows dashboardspectrum description on mouse over dashboardspectrum name in menu project"
+msgstr "Vis beskrivelse for instrumentbordet når musen holdes over instrumentbordets navn i menuen"
+
+#: ../../../Views/dashboardspectrum_config.php:49
+msgid "Show description"
+msgstr "Vis beskrivelse"
+
+#: ../../../Views/dashboardspectrum_config.php:55
+msgid "Close"
+msgstr "Luk"
+
+#: ../../../Views/dashboardspectrum_menu.php:44
+msgid "dashboardspectrums:"
+msgstr "Instrumentborde:"
+
+#: ../../../Views/dashboardspectrum_menu.php:54
+msgid "Draw Editor"
+msgstr "Tegne-editor"
+
+#: ../../../Views/dashboardspectrum_menu.php:58
+msgid "View mode"
+msgstr "Visningstilstand"
+
+#: ../../../Views/dashboardspectrum_menu.php:59
+msgid "Configure dashboardspectrum"
+msgstr "Konfigurér instrumentbord"
+
+#: ../../../Views/dashboardspectrum_menu.php:62
+msgid "New"
+msgstr "Ny"
+
+#: ../../../Views/dashboardspectrum_menu.php:64
+msgid "List view"
+msgstr "Listevisning"
+
