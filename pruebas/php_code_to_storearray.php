@@ -2,7 +2,7 @@
 echo "hola mundo";
 /*
 $array = array("foo", "bar", "hello", "world");
-$conn=mysql_connect('localhost', 'u4477', 'osgv67');
+$conn=mysql_connect('localhost', 'u4477', 'xxxxxx');
 mysql_select_db("spectrum",$conn);
 $array_string=(serialize($array));
 $q = "INSERT INTO `table`(`column`) VALUES ('ot222ooo')";
